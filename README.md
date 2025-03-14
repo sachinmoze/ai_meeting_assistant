@@ -1,6 +1,10 @@
 # 🎙️ AI Meeting Assistant
 
 AI Meeting Assistant is a Windows desktop application that captures system audio, transcribes speech in real-time, summarizes meetings, and organizes meeting notes. It works with any audio source including Zoom, Microsoft Teams, Google Meet, and Skype.
+![image](https://github.com/user-attachments/assets/ee2120ea-96be-4dcb-bdce-ffb42f251a78)
+
+![image](https://github.com/user-attachments/assets/f518068a-a1a4-4e7c-84d3-a32648f536b3)
+
 
 ## ✨ Features
 
