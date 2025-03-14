@@ -1,0 +1,49 @@
+# GUI
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
+
+# Audio Processing
+pyaudio==0.2.13
+numpy==1.24.3
+sounddevice==0.4.6
+
+# Transcription
+openai==1.3.0
+faster-whisper==0.9.0
+ffmpeg-python==0.2.0
+
+# Common dependencies
+six==1.16.0
+packaging==23.2
+protobuf==3.20.3
+jinja2==3.1.2
+markupsafe==2.1.3
+regex==2023.10.3
+joblib==1.3.2
+scipy==1.10.1
+pandas==2.0.3
+scikit-learn==1.3.2
+psutil==5.9.5
+
+# AI Processing
+aiohttp==3.8.5
+tokenizers==0.13.3
+huggingface-hub==0.17.3
+
+# Database
+sqlalchemy==2.0.20
+
+# Export functionality
+fpdf2==2.7.5
+markdown==3.4.4
+python-docx==0.8.11
+
+# Utils
+python-dotenv==1.0.0
+pydantic==2.3.0
+loguru==0.7.0
+
+# Testing
+pytest==7.4.0
+pytest-mock==3.11.1
